@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IneshJupudy
-- 👀 I’m interested in Full Stack Development | Software Development | Artificial Intelligence | Blockchain.
-- 🌱 I’m currently learning Ios Development.
-- 💞️ I’m looking to collaborate on Full Stack Projects.
+- 👀 I’m interested in Full Stack Development | Software Development | IOS Dev | Blockchain.
+- 🌱 OSS Contribution Grind.
+- 💞️ OSS | Startups | CodeJam
 - 📫 Reach me at - ineshj2806@gmail.com
 
 <!---
