@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IneshJupudy
-- 👀 Working in Full Stack Development | Software Development | IOS Dev | Blockchain.
+- 👀 Working in Full Stack Development | Software Development | Cloud | IOS Dev.
 - 🌱 Inesh Jupudy on App Store!
 - 📫 Reach me at - ineshj2806@gmail.com
 
